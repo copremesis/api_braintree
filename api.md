@@ -37,7 +37,13 @@ You already have a nicely designed page. All we need to do now is submit
 
 transactions to a 'Payment Gateway' using ruby to add this feature to our existing
 
-Ruby application.
+Ruby application. To begin please [clone this] (https://github.com/copremesis/api_braintree.git) repo.
+
+We'll attempt to run this as is and if we run into any pitfalls will work together as a team to 
+
+determine what missing pieces of the puzzle are missing.
+
+
 
 ### Most Basic Sale Code Snippet
     result = Braintree::Transaction.sale(
