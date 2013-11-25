@@ -62,7 +62,7 @@ If content is a direct representation of the physical world (e.g., temperature a
 
 
 ### api figure
-![braintree gem/API flow diagram](https://docs.google.com/drawings/d/1d-awxPC664DlIhTWM_pqK9SkcjD2udJWgO8K-gRZ_5U/pub?w=516&amp;h=720)
+![braintree gem/API flow diagram](https://docs.google.com/drawings/d/1whdbJI2rN52ohyehMXoWChWIRnR6xOvKNY6aKjIDILM/pub?w=516&amp;h=720)
 
 You are a Store owner who wishes to begin selling merchandise through your website.
 
