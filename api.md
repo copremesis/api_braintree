@@ -29,7 +29,9 @@ When used in the context of web development, an API is typically defined as a se
 Web use to share content
 
 
-![API flow diagram] ("https://docs.google.com/drawings/d/1yWy8O4jCKL4RG4JRvASOZ2FZ9lUJZPQQluAxBk-wE0w/pub?w=960&amp;h=720")
+![API flow diagram](https://docs.google.com/drawings/d/1yWy8O4jCKL4RG4JRvASOZ2FZ9lUJZPQQluAxBk-wE0w/pub?w=960&amp;h=720)
+
+
 
 The practice of publishing APIs has allowed web communities to create an open architecture for sharing content and data between communities and applications. In this way, content that is created in one place can be dynamically posted and updated in multiple locations on the web:
 * Photos can be shared from sites like Flickr and Photobucket to social network sites like Facebook and MySpace.
