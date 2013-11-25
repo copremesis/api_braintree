@@ -29,14 +29,12 @@ When used in the context of web development, an API is typically defined as a se
 Web use to share content
 
 The practice of publishing APIs has allowed web communities to create an open architecture for sharing content and data between communities and applications. In this way, content that is created in one place can be dynamically posted and updated in multiple locations on the web:
-Photos can be shared from sites like Flickr and Photobucket to social network sites like Facebook and MySpace.
-Content can be embedded, e.g. embedding a presentation from SlideShare on a LinkedIn profile.
-Content can be dynamically posted. Sharing live comments made on Twitter with a Facebook account, for example, is enabled by their APIs.
-Video content can be embedded on sites served by another host.
-User information can be shared from web communities to outside applications, delivering new functionality to the web community that shares its user data via an open API. One of the best examples of this is the Facebook Application platform. Another is the Open Social platform.
-If content is a direct representation of the physical world (e.g., temperature at a geospatial location on earth) then an API canFacebook account, for example, is enabled by their APIs.
-Video content can be embedded on sites served by another host.
-User information can be shared from web communities to outside applications, delivering new functionality to the web community that shares its user data via an open API. One of the best examples of this is the Facebook Application platform. Another is the Open Social platform.
+* Photos can be shared from sites like Flickr and Photobucket to social network sites like Facebook and MySpace.
+* Content can be embedded, e.g. embedding a presentation from SlideShare on a LinkedIn profile.
+* Content can be dynamically posted. Sharing live comments made on Twitter with a Facebook account, for example, is enabled by their APIs.
+* Video content can be embedded on sites served by another host.
+* User information can be shared from web communities to outside applications, delivering new functionality to the web community that shares its user data via an open API. One of the best examples of this is the Facebook Application platform. Another is the Open Social platform.
+
 If content is a direct representation of the physical world (e.g., temperature at a geospatial location on earth) then an API can be considered an "Environmental Programming Interface" (EPI). EPIs are characterized by their ability to provide a means for universally sequencing events sufficient to utilize real-world data for decision making.
 
 
