@@ -50,4 +50,22 @@ Ruby application.
 
 
 
+### More robust example
+
+    result = Braintree::Transaction.sale(
+      :amount => "8.01",
+      :order_id => "order id",
+      :credit_card => {
+        :number => "5105105105105100",
+        :expiration_date => "05/2012",
+        :cvv => "111"
+      },
+      :customer => {
+        :first_name => "__FIRST_NAME__",
+        :last_name => "__LAST_NAME__",
+        :company => "MakerSquare",
+        :website => "http://www.themakersquare.com",
+        :email => "__YOUR_EMAIL__"
+      }
+    )
 
