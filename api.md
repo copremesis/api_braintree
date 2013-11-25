@@ -29,11 +29,10 @@ When used in the context of web development, an API is typically defined as a se
 Web use to share content
 
 ### api local gem/libray figure
-![API flow diagram](https://docs.google.com/drawings/d/1d-awxPC664DlIhTWM_pqK9SkcjD2udJWgO8K-gRZ_5U/pub?w=960&amp;h=720)
+![Local API flow diagram](https://docs.google.com/drawings/d/1d-awxPC664DlIhTWM_pqK9SkcjD2udJWgO8K-gRZ_5U/pub?w=960&amp;h=720)
 
 ### api figure
-![API flow diagram](https://docs.google.com/drawings/d/1yWy8O4jCKL4RG4JRvASOZ2FZ9lUJZPQQluAxBk-wE0w/pub?w=960&amp;h=720)
-
+![remote API flow diagram](https://docs.google.com/drawings/d/1yWy8O4jCKL4RG4JRvASOZ2FZ9lUJZPQQluAxBk-wE0w/pub?w=960&amp;h=720)
 
 
 The practice of publishing APIs has allowed web communities to create an open architecture for sharing content and data between communities and applications. In this way, content that is created in one place can be dynamically posted and updated in multiple locations on the web:
@@ -58,6 +57,12 @@ If content is a direct representation of the physical world (e.g., temperature a
   * The third-party software component market thrives because many programmers believe that component oriented development improves the efficiency and the quality of developing custom applications
 
 # Exercise with Braintree
+
+### what we are going to do visually
+
+
+### api figure
+![braintree gem/API flow diagram](https://docs.google.com/drawings/d/1d-awxPC664DlIhTWM_pqK9SkcjD2udJWgO8K-gRZ_5U/pub?w=516&amp;h=720)
 
 You are a Store owner who wishes to begin selling merchandise through your website.
 
