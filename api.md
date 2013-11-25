@@ -10,28 +10,44 @@
      + SOAP
      + query string or attribute value pairs
      + JSON
-* Best Practice 
+* APIs Using Ruby
   - Ruby & Ruby gems
   - How to scroll through Documentation
   - Code examples in other languages
     
 * Exercise with Braintree 
-
  
-### Code snipet
-    a,c=10000,2800
-    f=[a/5]*(c+1)
-    d=e=g=0
-    (b=c
-    (d+=f[b]*a
-    f[b]=d%g
-    d/=g
-    g-=2
-    (b-=1)==0&&break
-    d*=b)while 0
-    c-=14
-    print"%.4d"%(e+d/a)
-    e=d%a)while (g=c*2-1)>0
+
+
+
+
+
+
+# History
+
+
+# APIs Using Ruby
+
+
+# Exercise with Braintree
+
+You are a Store owner who wishes to begin selling merchandise through your website.
+
+You already have a nicely designed page. All we need to do now is submit
+
+transactions to a 'Payment Gateway' using ruby to add this feature to our existing
+
+Ruby application.
+
+### Most Basic Sale Code Snippet
+    result = Braintree::Transaction.sale(
+      :amount => "7.77",
+      :credit_card => {
+        :number => "4111111111111111",
+        :expiration_date => "05/14"
+      }
+    )
+
 
 
 
