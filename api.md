@@ -80,8 +80,10 @@ The practice of publishing APIs has allowed web communities to create an open ar
 * Video content can be embedded on sites served by another host.
 * User information can be shared from web communities to outside applications, delivering new functionality to the web community that shares its user data via an open API. One of the best examples of this is the Facebook Application platform. Another is the Open Social platform.
 
+<!--
 If content is a direct representation of the physical world (e.g., temperature at a geospatial location on earth) then an API can be considered an "Environmental Programming Interface" (EPI). EPIs are characterized by their ability to provide a means for universally sequencing events sufficient to utilize real-world data for decision making.
 
+-->
 
 ###Serialization
 ![message in a bottle](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRVjRCHZ_AExVjzk5A48opyapsKr-o1jTtyAHM7F_PEdsY0Tu_f)
