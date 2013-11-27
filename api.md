@@ -10,12 +10,7 @@
      + [json](#serialization)
 * [APIs Using Ruby](#apis-using-ruby)
   - [Ruby & Ruby gems](#apis-using-ruby)
-  - Ruby solution from scratch
-    + tools for developers
-      * curl testing
-      * postman
-      * webhookapp
-    + code examples in other languages 
+  - [Ruby solution from scratch]()
 * [Exercise with Braintree](#exercise-with-braintree)
  
 
@@ -24,6 +19,13 @@
     + nodejs
     + java
     + c#
+
+  - Ruby solution from scratch
+    + tools for developers
+      * curl testing
+      * postman
+      * webhookapp
+    + code examples in other languages 
 -->
 
 
@@ -336,6 +338,8 @@ determine what missing pieces of the puzzle are missing.
 
   [Braintree Ruby Documentation](https://www.braintreepayments.com/docs/ruby)
 
+
+####Ruby Solution from Scratch
 
   Keep in mind we are here to learn *how* to build solutions using existing solutions hence Gems.
   However, companies change technology and may even fall out of cyberspace. Our role as software engineers
