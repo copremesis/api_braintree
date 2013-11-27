@@ -106,11 +106,11 @@ various ingredients or gems ultimately comes down to you.
 #### where do we stand with gems?
 
 As you travel through the ruby worlds you role may be anywhere from:
-gem user
-gem contributor
-gem (troller?) (me?)
-gem author
 
++ gem user
++ gem contributor
++ gem author
++ gem design pattern interpretor (all of the above)
 
 ###remote apis
 
@@ -119,6 +119,38 @@ Web use to share content
 
 ### api figure
 ![remote API flow diagram](https://docs.google.com/drawings/d/1yWy8O4jCKL4RG4JRvASOZ2FZ9lUJZPQQluAxBk-wE0w/pub?w=960&amp;h=720)
+
+
+
+#######Ruby 
+
+    {
+        :a => 1,
+        :b => 2,
+        :c => 3
+    }
+
+####### 1.9+ syntax
+
+    {
+        a: 1,
+        b: 2,
+        c: 3
+    }
+     
+#######XML
+
+    <a> 1 </a>
+    <b> 2 </b>
+    <c> 3 </c>
+
+#######JSON
+
+    {
+      "a": 1,
+      "b": 2,
+      "c": 3
+    }
 
 
 The practice of publishing APIs has allowed web communities to create an open architecture for sharing content and data between communities and applications. In this way, content that is created in one place can be dynamically posted and updated in multiple locations on the web:
