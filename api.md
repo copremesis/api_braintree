@@ -296,7 +296,7 @@ Problem
 
 ### what we are going to do visually
 
-For our exercise we are going to focus credit card processing using a ruby script.
+For our exercise we are going to focus on credit card processing using a ruby script.
 This exemplify's the use of an API as if we were to house private sensitive data on our own
 local machines would require security licensing plus fees & routine inspections.
 
