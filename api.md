@@ -133,9 +133,6 @@ determine what missing pieces of the puzzle are missing.
 
 #Whoami
 
-<div style="background-color: #000; color: #fff">
-  This is a test 
-</div>
 
 Companies I've worked with:
 * ![CabForward](https://www.cabforward.com/wp-content/uploads/2013/11/cabforward-logo.png)
@@ -144,5 +141,4 @@ Companies I've worked with:
 * ![Auto](http://www.auto.com/assets/logo/auto-logo-200x100.png)
 * ![Cars](http://graphics.cars.com/images/core/logo.png)
 * ![AccioData](http://www.acciodata.com/images/accio_data_logo.png)
-<!-- ![MyMedia](http://www.apartments.com/mymediademo/?resp=true) -->
 
