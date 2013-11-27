@@ -10,7 +10,7 @@
      + [json](#serialization)
 * [APIs Using Ruby](#apis-using-ruby)
   - [Ruby & Ruby gems](#apis-using-ruby)
-  - [Ruby solution from scratch]()
+  - [Ruby solution from scratch](#ruby-solution-from-scratch)
 * [Exercise with Braintree](#exercise-with-braintree)
  
 
