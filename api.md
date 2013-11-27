@@ -120,6 +120,18 @@ Web use to share content
 ### api figure
 ![remote API flow diagram](https://docs.google.com/drawings/d/1yWy8O4jCKL4RG4JRvASOZ2FZ9lUJZPQQluAxBk-wE0w/pub?w=960&amp;h=720)
 
+
+The practice of publishing APIs has allowed web communities to create an open architecture for sharing content and data between communities and applications. In this way, content that is created in one place can be dynamically posted and updated in multiple locations on the web:
+* Photos can be shared from sites like Flickr and Photobucket to social network sites like Facebook and MySpace.
+* Content can be embedded, e.g. embedding a presentation from SlideShare on a LinkedIn profile.
+* Content can be dynamically posted. Sharing live comments made on Twitter with a Facebook account, for example, is enabled by their APIs.
+* Video content can be embedded on sites served by another host.
+* User information can be shared from web communities to outside applications, delivering new functionality to the web community that shares its user data via an open API. One of the best examples of this is the Facebook Application platform. Another is the Open Social platform.
+
+If content is a direct representation of the physical world (e.g., temperature at a geospatial location on earth) then an API can be considered an "Environmental Programming Interface" (EPI). EPIs are characterized by their ability to provide a means for universally sequencing events sufficient to utilize real-world data for decision making.
+
+![message in a bottle](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRVjRCHZ_AExVjzk5A48opyapsKr-o1jTtyAHM7F_PEdsY0Tu_f)
+
 ###Serialization
 
 #######Ruby 
@@ -151,18 +163,6 @@ Web use to share content
       "b": 2,
       "c": 3
     }
-
-
-The practice of publishing APIs has allowed web communities to create an open architecture for sharing content and data between communities and applications. In this way, content that is created in one place can be dynamically posted and updated in multiple locations on the web:
-* Photos can be shared from sites like Flickr and Photobucket to social network sites like Facebook and MySpace.
-* Content can be embedded, e.g. embedding a presentation from SlideShare on a LinkedIn profile.
-* Content can be dynamically posted. Sharing live comments made on Twitter with a Facebook account, for example, is enabled by their APIs.
-* Video content can be embedded on sites served by another host.
-* User information can be shared from web communities to outside applications, delivering new functionality to the web community that shares its user data via an open API. One of the best examples of this is the Facebook Application platform. Another is the Open Social platform.
-
-If content is a direct representation of the physical world (e.g., temperature at a geospatial location on earth) then an API can be considered an "Environmental Programming Interface" (EPI). EPIs are characterized by their ability to provide a means for universally sequencing events sufficient to utilize real-world data for decision making.
-
-![message in a bottle](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRVjRCHZ_AExVjzk5A48opyapsKr-o1jTtyAHM7F_PEdsY0Tu_f)
 
 # APIs Using Ruby
 
