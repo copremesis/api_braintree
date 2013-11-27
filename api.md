@@ -218,9 +218,9 @@ use to discover different ways to solve your everyday problems.
 
 In a kitchen a gem would essentially be prep work before the chef begins to cook.
 
-If I were going to make gumbo, one essential time consuming ingredient would be the *Roux* 
+If I were going to make gumbo, one essential time consuming ingredient would be the *Roux*.
 If the cook were to *always* prepare the roux for each dish this could add complexity and time 
-when preparing a cup of soup.
+when preparing a single dish.
 
 Instead restaurants have workers prepare these essential building blocks so that the line cooks/chefs can quickly prepare
 dishes for their consumers.
@@ -256,7 +256,7 @@ As you travel through the ruby worlds you role may be anywhere from:
     many many times this is the case and there may not be an existing ruby solution.
 
     As a software professional you will discover how to interpret other code or convert solutions
-    from one language to ruby ... hence hopefully become a gem author and make help make our community 
+    from one language to ruby ... hence hopefully become a gem author and help make our community 
     a wonderful place to cook 
 
   otherwise each existing API if using REST will have documentation detail messages (endpoints) 
@@ -269,7 +269,7 @@ As you travel through the ruby worlds you role may be anywhere from:
 
 ### what we are going to do visually
 
-For our exercise we are going to focus on the credit card processing using a ruby script.
+For our exercise we are going to focus credit card processing using a ruby script.
 
 This exemplify's the use of an API as if we were to house private sensitive data on our own
 local machines would require security licensing plus fees & routine inspections.
@@ -308,7 +308,7 @@ determine what missing pieces of the puzzle are missing.
 
   but demonstrate this using your script ... ruby  sale.rb void.rb
 
-  two distinct visual queues should occur with your usename ...
+  two distinct visual queues should occur with your user name ...
   I could play with this: <https://oauth.io/> and see if that does something cool like post to a timeline or tweet actions performed on your braintree account 
 
 
@@ -319,11 +319,10 @@ determine what missing pieces of the puzzle are missing.
   concept as the rabbit hole deepens ... you can mention time sensitive complexity with performing REFUNDS .. maybe share a story but overall just
   inform them that 
 
-  also mentions rescue logic ... when working through a network connection to provide informant UX when phyical connection is severed.
+  also mentions rescue logic ... when working through a network connection to provide informant UX when physical connection is severed.
 
   leave some links to documentation so that the students can practice doing what we as software developers do a lot of:
-  read documentation search for existing solutions.
-
+  read documentation in search of existing solutions.
 
     
 
