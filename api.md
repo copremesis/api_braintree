@@ -242,6 +242,27 @@ As you travel through the ruby worlds you role may be anywhere from:
 + gem author
 + gem design pattern interpretor (all of the above)
 
+####Segway to todays exercise
+
+  maybe even have a flow chart on problem solving with ruby
+
+  problem -> A
+
+  1. is there a gem for me to get from A -> B
+    if yes then use/test gem
+
+  no? is there a solution from for A -> B in another programming language?
+
+    many many times this is the case and there may not be an existing ruby solution.
+
+    As a software professional you will discover how to interpret other code or convert solutions
+    from one language to ruby ... hence hopefully become a gem author and make help make our community 
+    a wonderful place to cook 
+
+  otherwise each existing API if using REST will have documentation detail messages (endpoints) 
+  parameters/xml/json code snippets fields to you as a programmer use to build these bridges
+
+![bridge image](http://home.wangjianshuo.com/archives/2005/07/17/shanghai-donghai.bridge.jpg)
 
 # Exercise with Braintree
 
@@ -304,27 +325,6 @@ determine what missing pieces of the puzzle are missing.
   read documentation search for existing solutions.
 
 
-####brainstorm on providing integration solutions with ruby
-  maybe even have a flow chart on problem solving with ruby
-
-
-  problem -> A
-
-  1. is there a gem for me to get from A -> B
-    if yes then use/test gem
-
-  no? is there a solution from for A -> B in another programming language?
-
-    many many times this is the case and there may not be an existing ruby solution.
-
-    As a software professional you will discover how to interpret other code or convert solutions
-    from one language to ruby ... hence hopefully become a gem author and make help make our community 
-    a wonderful place to cook 
-
-  otherwise each existing API if using REST will have documentation detail messages (endpoints) 
-  parameters/xml/json code snippets fields to you as a programmer use to build these bridges
-
-![bridge image](http://home.wangjianshuo.com/archives/2005/07/17/shanghai-donghai.bridge.jpg)
     
 
 ### Most Basic Sale Code Snippet
