@@ -2,7 +2,7 @@
 
 
 * [Overview] (#overview)
-  - [Encapsulation] (#encapsulation)
+  - [Encapsulation] (#encapsulation-through-3rd-parties)
     + [local libraris/gems] (#api-local-gemlibray-figure)
     + [remote web services/resources] (#remote-apis)
   - [serialization] (#serialization)
