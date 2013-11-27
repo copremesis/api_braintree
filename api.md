@@ -60,19 +60,23 @@ API documents the interaction or delivery of __messages__ between any of the fol
 
 ![Gumbo](http://media.smithsonianmag.com/images/Unified-Theory-Gumbo-631.jpg)
 
-
+<!--
 Point I'm making ... As a cook or one who aspires to be a chef (you and I) ... we will test various ingredients (building blocks aka gems)
+-->
 
+
+As software engineer that aspires to manufacture signature applications we will test various ingredients (building blocks aka gems)
 in order to produce the best dish we can.
 
-If it comes down to it we may need to make our own ingredients from scratch ... yet If we want to compete in todays market it's better to begin
-with solid building blocks when producing MVP's 
+If it comes down to it we may need to make our own ingredients from scratch ... yet If we want to compete in todays market
+we can speed up this process by know and understanding the world of gems and how this gives us a foundation of 
+solid building blocks when producing MVP's.
 
-The philosphy here leads back to open source and how software reuse from a community standpoint allows us to focus more on the domain and not so much
+The philosophy here leads back to open source and how software reuse from a community standpoint allows us to focus more on the domain and not so much
 the details.
 
 gems compete for use based on our community and where it trends. 
-gems have meta data and are QA'd from their contributors. (rspec/unit test)
+gems have meta data and are quality inspected from their contributors. rspec or unit test are present inside the source tree.
 gems can in most cases do most of the heavy lifting allow us as developers to perform quickly.
 
 broken gems?
@@ -81,20 +85,25 @@ it's ruby you can fix them :D (monkey patching)
 
 if they are on github you can fork them ... and fix them there
 
-if the project was halted ... simply reading other solutions to simmilar problems is a fountain of wisdom and design patterns you can 
-use to discover different ways to solve your everyday problems
+if the project was halted ... 
+simply reading other solutions to simmilar problems is a fountain of wisdom and design patterns you can 
+use to discover different ways to solve your everyday problems.
 
-In a kitchen a gem would essentially be prep work before the chef begins to cook
+#### analogy of gems in a cajun restaurant 
 
-If I were going to make gumbo one essential time consuming ingredient would be the roux ... well if I show up to
-my restaurant and the roux is not prepped. /... the any customer who wishes for
-a cup of gumbo might have to way hours before they are able to enjoy a bowl of soup.
+In a kitchen a gem would essentially be prep work before the chef begins to cook.
 
-Instead restaurants have works prepare these essential building blocks so that the link cooks/chefs can quickly prepare tastey 
+If I were going to make gumbo, one essential time consuming ingredient would be the *Roux* 
+If the cook were to *always* prepare the roux for each dish this could add complexity and time 
+when preparing a cup of soup.
+
+Instead restaurants have workers prepare these essential building blocks so that the line cooks/chefs can quickly prepare
 dishes for their consumers.
 
 Trust becomes a huge factor in this senario so as a decision maker in manufactoring software your discretion and own cross examining A/B testing
 various ingredients or gems ultimately comes down to you.
+
+#### where do we stand with gems?
 
 As you travel through the ruby worlds you role may be anywhere from:
 gem user
