@@ -12,12 +12,6 @@
      + [json](#serialization)
 * [APIs Using Ruby](#apis-using-ruby)
   - [Ruby & Ruby gems](#apis-using-ruby)
-<!--
-  - Code examples in other languages (nodejs)
-    + nodejs
-    + java
-    + c#
--->
   - Ruby solution from scratch
     + tools for developers
       * curl testing
@@ -27,6 +21,12 @@
 * [Exercise with Braintree](#exercise-with-braintree)
  
 
+<!--
+  - Code examples in other languages (nodejs)
+    + nodejs
+    + java
+    + c#
+-->
 
 
 
