@@ -40,6 +40,7 @@ API specifies how:
 * a web resource 
 * or a module
 __encapsulates__ a set of related *functions* ( or data )
+
 *functions* -> messages or methods used within the context of peer to peer communication
 
 
