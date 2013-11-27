@@ -3,7 +3,7 @@
 
 * [Overview] (#overview)
   - [Encapsulation] (#encapsulation-through-3rd-parties)
-    + [local libraris/gems] (#api-local-gemlibray-figure)
+    + [local libraries/gems] (#api-local-gemlibray-figure)
     + [remote web services/resources] (#remote-apis)
   - [serialization] (#serialization)
      + [xml](#serialization)
@@ -58,7 +58,7 @@ API documents the interaction or delivery of __messages__ between any of the fol
   * a web resource 
   * or a module
 
-### API local gem/libray figure
+### API local gem/library figure
 ![Local API flow diagram](https://docs.google.com/drawings/d/1d-awxPC664DlIhTWM_pqK9SkcjD2udJWgO8K-gRZ_5U/pub?w=960&amp;h=720)
 
 ###remote APIs
@@ -182,7 +182,7 @@ the network.
 # APIs Using Ruby
 
 - libraries
-  * software libraies included with ruby auto magically
+  * software libraries included with ruby auto magically
 - gems
   * Ruby libraries written/tested/published by the community which ranges from developers  
   * encourages software reuse few bugs avoid rebuilding the wheel.
@@ -251,7 +251,7 @@ various ingredients (or gems) ultimately help to improve your final delivery.
 
 #### where do we stand with gems?
 
-As you travel through the ruby world you role may be anywhere from:
+As you travel through the ruby world your role may be anywhere from:
 
 + gem user
 + gem contributor
