@@ -8,16 +8,13 @@
     + [local libraris/gems] (#api-local-gemlibray-figure)
     + [remote web services/resources] (#remote-apis)
   - [serialization] (#serialization)
-     + XML
-     + SOAP
-     + query string or attribute value pairs
-     + JSON
-* APIs Using Ruby
-  - Ruby & Ruby gems
-  - How to scroll through Documentation
-  - Code examples in other languages
-    
-* Exercise with Braintree 
+     + [xml](#serialization)
+     + [json](#serialization)
+* [APIs Using Ruby](#apis-using-ruby)
+  - [Ruby & Ruby gems](#apis-using-ruby)
+  - Code examples in other languages (nodejs)
+  - How to scroll through Documentation (google)
+* [Exercise with Braintree](#exercise-with-braintree)
  
 
 
