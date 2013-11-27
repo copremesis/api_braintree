@@ -41,13 +41,13 @@ API specifies how:
 * or a module
 __encapsulates__ a set of related *functions* ( or data )
 
-*functions* -> messages or methods used within the context of peer to peer communication
+*functions* -> __messages__ or methods used within the context of peer to peer communication
 
 
 
 So the consise definition becomes:
 
-API documents the interaction or delivery of messages between any of the following:
+API documents the interaction or delivery of __messages__ between any of the following:
   * a software package 
   * a web service
   * a web resource 
@@ -56,9 +56,8 @@ API documents the interaction or delivery of messages between any of the followi
 ### api local gem/libray figure
 ![Local API flow diagram](https://docs.google.com/drawings/d/1d-awxPC664DlIhTWM_pqK9SkcjD2udJWgO8K-gRZ_5U/pub?w=960&amp;h=720)
 
-When used in the context of web development, an API is typically defined as a set of Hypertext Transfer Protocol (HTTP) request messages, along with a definition of the structure of response messages, which is usually in an Extensible Markup Language (XML) or JavaScript Object Notation (JSON) format. While "web API" historically has been virtually synonymous for web service, the recent trend (so-called Web 2.0) has been moving away from Simple Object Access Protocol (SOAP) based web services and service-oriented architecture (SOA) towards more direct representational state transfer (REST) style web resources and resource-oriented architecture (ROA).[7] Part of this trend is related to the Semantic Web movement toward Resource Description Framework (RDF), a concept to promote web-based ontology engineering technologies. Web APIs allow the combination of multiple APIs into new applications known as mashups.
+When used in the context of web development, an API is typically defined as a set of Hypertext Transfer Protocol (HTTP) request __messages__, along with a definition of the structure of response __messages__, which is usually in an Extensible Markup Language (XML) or JavaScript Object Notation (JSON) format. While "web API" historically has been virtually synonymous for web service, the recent trend (so-called Web 2.0) has been moving away from Simple Object Access Protocol (SOAP) based web services and service-oriented architecture (SOA) towards more direct representational state transfer (REST) style web resources and resource-oriented architecture (ROA).[7] Part of this trend is related to the Semantic Web movement toward Resource Description Framework (RDF), a concept to promote web-based ontology engineering technologies. Web APIs allow the combination of multiple APIs into new applications known as mashups.
 Web use to share content
-
 
 ### api figure
 ![remote API flow diagram](https://docs.google.com/drawings/d/1yWy8O4jCKL4RG4JRvASOZ2FZ9lUJZPQQluAxBk-wE0w/pub?w=960&amp;h=720)
