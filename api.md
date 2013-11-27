@@ -3,7 +3,7 @@
 
 ### Summary of today's Topic
 
-* History
+* ![History] (#History)
   - encapsulation via 3rd parties
   - serialization
      + XML
@@ -17,8 +17,6 @@
     
 * Exercise with Braintree 
  
-
-
 
 
 
