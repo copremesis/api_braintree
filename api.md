@@ -6,8 +6,8 @@
 * [Overview] (#overview)
   - [Encapsulation] (#encapsulation)
     + [local libraris/gems] (#api-local-gemlibray-figure)
-    + remote web services/resources
-  - serialization
+    + [remote web services/resources] (#remote-apis)
+  - [serialization] (#serialization)
      + XML
      + SOAP
      + query string or attribute value pairs
@@ -120,7 +120,7 @@ Web use to share content
 ### api figure
 ![remote API flow diagram](https://docs.google.com/drawings/d/1yWy8O4jCKL4RG4JRvASOZ2FZ9lUJZPQQluAxBk-wE0w/pub?w=960&amp;h=720)
 
-
+###Serialization
 
 #######Ruby 
 
