@@ -13,7 +13,14 @@
 * [APIs Using Ruby](#apis-using-ruby)
   - [Ruby & Ruby gems](#apis-using-ruby)
   - Code examples in other languages (nodejs)
-  - How to scroll through Documentation (google)
+    + nodejs
+    + java
+    + c#
+  - Ruby solution from scratch
+    + tools for developers
+      * curl testing
+      * postman
+      * webhookapp
 * [Exercise with Braintree](#exercise-with-braintree)
  
 
