@@ -177,32 +177,40 @@ If content is a direct representation of the physical world (e.g., temperature a
 
   <tr>
     <td>
-      <pre><code>{
-          :a =&gt; 1,
-          :b =&gt; 2,
-          :c =&gt; 3
-      }
-      </code></pre>
+      <pre>
+        <code>
+        {
+            :a =&gt; 1,
+            :b =&gt; 2,
+            :c =&gt; 3
+        }
+        </code>
+      </pre>
     </td>
 
     <td>
-      <pre><code>{
-          a: 1,
-          b: 2,
-          c: 3
-      }
-      </code></pre>
+      <pre>
+        <code>
+        {
+            a: 1,
+            b: 2,
+            c: 3
+        }
+        </code>
+      </pre>
     </td>
 
     <td>
-      <pre><code>&lt;a&gt; 1 &lt;/a&gt;
+      <pre><code>
+      &lt;a&gt; 1 &lt;/a&gt;
       &lt;b&gt; 2 &lt;/b&gt;
       &lt;c&gt; 3 &lt;/c&gt;
       </code></pre>
     </td>
 
     <td>
-      <pre><code>{
+      <pre><code>
+      {
         "a": 1,
         "b": 2,
         "c": 3
