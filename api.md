@@ -326,6 +326,14 @@ determine what missing pieces of the puzzle are missing.
 
   I've put together dashboard to provide peers visual/audio feedback whenever a transaction is performed
 
+  Credentials are already provided in the braintree.rb
+
+  After you are able to perform a sale transaction ... the next exercise is to perform a **VOID**.
+
+  To assist I've done some Google-ing where you can track down code documetation to perform this action.
+
+  [Braintree Ruby Documentation](https://www.braintreepayments.com/docs/ruby)
+
 <!--
   WIP
   you can demonstrate this with your completed script 
