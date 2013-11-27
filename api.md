@@ -102,6 +102,8 @@ when preparing a cup of soup.
 Instead restaurants have workers prepare these essential building blocks so that the line cooks/chefs can quickly prepare
 dishes for their consumers.
 
+#### Summary of gems/libraries
+
 Trust becomes a huge factor in this senario.
 As a decision maker in manufactoring software, Your discretion and or own cross examination, A/B testing, or researching 
 various ingredients (or gems) ultimately make or break your dish.
