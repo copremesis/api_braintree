@@ -4,7 +4,7 @@
 ### Summary of today's Topic
 
 * [Overview] (#overview)
-  - Encapsulation 
+  - [Encapsulation] (#encapsulation)
     + local libraris 
     + gems
     + remote web services/resources
