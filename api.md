@@ -45,7 +45,8 @@ __encapsulates__ a set of related *functions* ( or data )
 
 
 So the consise definition becomes:
-: API documents the interaction or delivery of messages between any of the following:
+
+API documents the interaction or delivery of messages between any of the following:
   * a software package 
   * a web service
   * a web resource 
