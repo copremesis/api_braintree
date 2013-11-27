@@ -56,69 +56,6 @@ API documents the interaction or delivery of __messages__ between any of the fol
 ### api local gem/libray figure
 ![Local API flow diagram](https://docs.google.com/drawings/d/1d-awxPC664DlIhTWM_pqK9SkcjD2udJWgO8K-gRZ_5U/pub?w=960&amp;h=720)
 
-![Logos](http://brickartist.com/img/gallery/yellow.jpg)
-
-![Gumbo](http://media.smithsonianmag.com/images/Unified-Theory-Gumbo-631.jpg)
-
-<!--
-Point I'm making ... As a cook or one who aspires to be a chef (you and I) ... we will test various ingredients (building blocks aka gems)
--->
-
-
-As software engineers that aspire to build signature applications. We will test various ingredients (building blocks aka gems)
-in order to produce the best dish we can.
-
-If it comes down to it we may need to make our own ingredients from scratch ... yet If we want to compete in todays market
-we can speed up this process by knowing and understanding the world of gems and how this gives us a foundation of 
-solid building blocks when producing MVP's.
-
-<!--
-The philosophy here leads back to open source and how software reuse from a community standpoint allows us to focus more on the domain and not so much
-the details.
-
-gems compete for use based on our community and where it trends. 
-gems have meta data and are quality inspected from their contributors. rspec or unit test are present inside the source tree.
-gems can in most cases do most of the heavy lifting allow us as developers to perform quickly.
-
-broken gems?
-
-it's ruby you can fix them :D (monkey patching)
-
-if they are on github you can fork them ... and fix them there
-
-if the project was halted ... 
-simply reading other solutions to simmilar problems is a fountain of wisdom and design patterns you can 
-use to discover different ways to solve your everyday problems.
--->
-
-#### analogy of gems in a cajun restaurant 
-
-In a kitchen a gem would essentially be prep work before the chef begins to cook.
-
-If I were going to make gumbo, one essential time consuming ingredient would be the *Roux* 
-If the cook were to *always* prepare the roux for each dish this could add complexity and time 
-when preparing a cup of soup.
-
-Instead restaurants have workers prepare these essential building blocks so that the line cooks/chefs can quickly prepare
-dishes for their consumers.
-
-#### Summary of gems/libraries
-
-Trust becomes a huge factor in this senario.
-As a decision maker in manufactoring software, Your discretion and or own cross examination, A/B testing, or researching 
-various ingredients (or gems) ultimately make or break your dish.
-
-![papa johns](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQS5H_mPRftlge_mDcOQnj3luQyEMSfLbq3IyIs97SFg6ALrszw2w)
-
-#### where do we stand with gems?
-
-As you travel through the ruby worlds you role may be anywhere from:
-
-+ gem user
-+ gem contributor
-+ gem author
-+ gem design pattern interpretor (all of the above)
-
 ###remote apis
 
 When used in the context of web development, an API is typically defined as a set of Hypertext Transfer Protocol (HTTP) request __messages__, along with a definition of the structure of response __messages__, which is usually in an Extensible Markup Language (XML) or JavaScript Object Notation (JSON) format. While "web API" historically has been virtually synonymous for web service, the recent trend (so-called Web 2.0) has been moving away from Simple Object Access Protocol (SOAP) based web services and service-oriented architecture (SOA) towards more direct representational state transfer (REST) style web resources and resource-oriented architecture (ROA).[7] Part of this trend is related to the Semantic Web movement toward Resource Description Framework (RDF), a concept to promote web-based ontology engineering technologies. Web APIs allow the combination of multiple APIs into new applications known as mashups.
@@ -241,6 +178,70 @@ the network.
 - 3rd party apis + existing gem
 
   * The third-party software component market thrives because many programmers believe that component oriented development improves the efficiency and the quality of developing custom applications
+
+![Logos](http://brickartist.com/img/gallery/yellow.jpg)
+
+![Gumbo](http://media.smithsonianmag.com/images/Unified-Theory-Gumbo-631.jpg)
+
+<!--
+Point I'm making ... As a cook or one who aspires to be a chef (you and I) ... we will test various ingredients (building blocks aka gems)
+-->
+
+
+As software engineers that aspire to build signature applications. We will test various ingredients (building blocks aka gems)
+in order to produce the best dish we can.
+
+If it comes down to it we may need to make our own ingredients from scratch ... yet If we want to compete in todays market
+we can speed up this process by knowing and understanding the world of gems and how this gives us a foundation of 
+solid building blocks when producing MVP's.
+
+<!--
+The philosophy here leads back to open source and how software reuse from a community standpoint allows us to focus more on the domain and not so much
+the details.
+
+gems compete for use based on our community and where it trends. 
+gems have meta data and are quality inspected from their contributors. rspec or unit test are present inside the source tree.
+gems can in most cases do most of the heavy lifting allow us as developers to perform quickly.
+
+broken gems?
+
+it's ruby you can fix them :D (monkey patching)
+
+if they are on github you can fork them ... and fix them there
+
+if the project was halted ... 
+simply reading other solutions to simmilar problems is a fountain of wisdom and design patterns you can 
+use to discover different ways to solve your everyday problems.
+-->
+
+#### analogy of gems in a cajun restaurant 
+
+In a kitchen a gem would essentially be prep work before the chef begins to cook.
+
+If I were going to make gumbo, one essential time consuming ingredient would be the *Roux* 
+If the cook were to *always* prepare the roux for each dish this could add complexity and time 
+when preparing a cup of soup.
+
+Instead restaurants have workers prepare these essential building blocks so that the line cooks/chefs can quickly prepare
+dishes for their consumers.
+
+#### Summary of gems/libraries
+
+Trust becomes a huge factor in this senario.
+As a decision maker in manufactoring software, Your discretion and or own cross examination, A/B testing, or researching 
+various ingredients (or gems) ultimately make or break your dish.
+
+![papa johns](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQS5H_mPRftlge_mDcOQnj3luQyEMSfLbq3IyIs97SFg6ALrszw2w)
+
+#### where do we stand with gems?
+
+As you travel through the ruby worlds you role may be anywhere from:
+
++ gem user
++ gem contributor
++ gem author
++ gem design pattern interpretor (all of the above)
+
 
 # Exercise with Braintree
 
