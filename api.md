@@ -133,9 +133,12 @@ The practice of publishing APIs has allowed web communities to create an open ar
 
 If content is a direct representation of the physical world (e.g., temperature at a geospatial location on earth) then an API can be considered an "Environmental Programming Interface" (EPI). EPIs are characterized by their ability to provide a means for universally sequencing events sufficient to utilize real-world data for decision making.
 
-![message in a bottle](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRVjRCHZ_AExVjzk5A48opyapsKr-o1jTtyAHM7F_PEdsY0Tu_f)
 
 ###Serialization
+![message in a bottle](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRVjRCHZ_AExVjzk5A48opyapsKr-o1jTtyAHM7F_PEdsY0Tu_f)
+
+The process in which we take an existing data structure and transfer it through
+the network.
 
 <!--
 #######Ruby 
@@ -237,7 +240,16 @@ If content is a direct representation of the physical world (e.g., temperature a
 
 # Exercise with Braintree
 
+
 ### what we are going to do visually
+
+For our exercise we are going to focus on the credit card processing using a ruby script.
+
+This exemplify's the use of an API as if we were to house private sensitive data on our own
+local machines would require security licensing plus fees & routine inspections.
+
+Point is we can piggy back off of braintrees existing infrastucture using code examples provided by braintree
+which not only provides solutions in ruby but many other existing languages/platforms
 
 
 ### api figure
@@ -252,10 +264,47 @@ transactions to a 'Payment Gateway' using ruby to add this feature to our existi
 Ruby application. To begin please [clone this] (https://github.com/copremesis/api_braintree.git) repo.
 
 We'll attempt to run this as is and if we run into any pitfalls will work together as a team to 
-
 determine what missing pieces of the puzzle are missing.
 
+<!--
+  leave this in a broken state so that the student essentially 
+  needs to fill in the blanks with valid input
+  list some test cards in a table along with code samples
+-->
 
+
+  A dashboard built by you will provide visual/audio feedback whenever a transaction is performed
+  you can demonstrate this with your completed script 
+
+
+  Additionally you do not provide the code no how to perform a VOID transaction however 
+  leave some links to documentation so that the students can practice doing what we as software developers do a lot of:
+
+  read documentation search for existing solutions.
+
+
+####brainstorm on providing integration solutions with ruby
+  maybe even have a flow chart on problem solving with ruby
+
+
+  problem -> A
+
+  1. is there a gem for me to get from A -> B
+    if yes then use/test gem
+
+  no? is there a solution from for A -> B in another programming language?
+
+    many many times this is the case and there may not be an existing ruby solution.
+
+    As a software professional you will discover how to interpret other code or convert solutions
+    from one language to ruby ... hence hopefully become a gem author and make help make our community 
+    a wonderful place to cook 
+
+  otherwise each existing API if using REST will have documentation detail messages (endpoints) 
+  parameters/xml/json code snippets fields to you as a programmer use to build these bridges
+
+![bridge image](http://home.wangjianshuo.com/archives/2005/07/17/shanghai-donghai.bridge.jpg)
+    
 
 ### Most Basic Sale Code Snippet
     result = Braintree::Transaction.sale(
