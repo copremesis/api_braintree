@@ -1,8 +1,6 @@
 # APIs
 
 
-### Summary of today's Topic
-
 * [Overview] (#overview)
   - [Encapsulation] (#encapsulation)
     + [local libraris/gems] (#api-local-gemlibray-figure)
@@ -253,7 +251,7 @@ various ingredients (or gems) ultimately help to improve your final delivery.
 
 #### where do we stand with gems?
 
-As you travel through the ruby worlds you role may be anywhere from:
+As you travel through the ruby world you role may be anywhere from:
 
 + gem user
 + gem contributor
