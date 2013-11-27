@@ -137,7 +137,7 @@ Companies I've worked with:
 
 * ![AccioData](http://www.acciodata.com/images/accio_data_logo.png)
 * ![Auto](http://www.auto.com/assets/logo/auto-logo-200x100.png)
-* ![AHL](http://css.apartmenthl.com/imgs/find/logo.png)
+* ![AHL](http://austin.apartmenthomeliving.com/imgs/global/header/apartments-for-rent-apartment-home-living.png)
 * ![Cars](http://graphics.cars.com/images/core/logo.png)
 
 <!-- ![MyMedia](http://www.apartments.com/mymediademo/?resp=true) -->
