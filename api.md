@@ -259,6 +259,7 @@ As you travel through the ruby worlds you role may be anywhere from:
 Problem
 : we need to connect our ruby application to a remote 3rd party service  
 
+  ####basic ruby design decision flow
 ![Decision Flow](https://docs.google.com/drawings/d/1plLIzfr_brdpe1mlffiyFkgFjA1Z7wQV4FUEzpPqkF4/pub?w=949&amp;h=475)
 
 <!--
@@ -268,6 +269,7 @@ Problem
   otherwise each existing API if using REST will have documentation detail messages (endpoints) 
   parameters/xml/json code snippets fields to you as a programmer use to build these bridges
 -->
+
 
   Our role as software engineers is to provide solutions existing or non existing and work with 
   companies. 
