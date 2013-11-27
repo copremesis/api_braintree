@@ -262,7 +262,7 @@ As you travel through the ruby worlds you role may be anywhere from:
   problem -> A
 -->
 
-![Decision Flow] (https://docs.google.com/drbwings/d/1plLIzfr_brdpe1mlffiyFkgFjA1Z7wQV4FUEzpPqkF4/pub?w=949&amp;h=475)
+![Decision Flow](https://docs.google.com/drawings/d/1plLIzfr_brdpe1mlffiyFkgFjA1Z7wQV4FUEzpPqkF4/pub?w=949&amp;h=475)
 
   1. is there a gem for me to get from A -> B
     if yes then use/test gem
