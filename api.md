@@ -315,11 +315,8 @@ functionality without having to worry about:
 ![braintree gem/API flow diagram](https://docs.google.com/drawings/d/1whdbJI2rN52ohyehMXoWChWIRnR6xOvKNY6aKjIDILM/pub?w=516&amp;h=720)
 
 You are a Store owner who wishes to begin selling merchandise through your website.
-
 You already have a nicely designed page. All we need to do now is submit
-
 transactions to a 'Payment Gateway' using ruby to add this feature to our existing
-
 Ruby application. To begin please [clone this] (https://github.com/copremesis/api_braintree.git) repo.
 
 We'll attempt to run this as is and if we run into any pitfalls will work together as a team to 
@@ -332,12 +329,10 @@ determine what missing pieces of the puzzle are missing.
 -->
 
   I've put together dashboard to provide peers visual/audio feedback whenever a transaction is performed
+  Credentials are already provided in the braintree.rb. After you are able to perform a sale transaction ... 
+  the next exercise is to perform a **VOID**. To assist I've done some Google-ing where you can track down 
 
-  Credentials are already provided in the braintree.rb
-
-  After you are able to perform a sale transaction ... the next exercise is to perform a **VOID**.
-
-  To assist I've done some Google-ing where you can track down code documetation to perform this action.
+  code documetation to perform this action.
 
   [Braintree Ruby Documentation](https://www.braintreepayments.com/docs/ruby)
 
