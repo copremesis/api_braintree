@@ -57,15 +57,19 @@ API documents the interaction or delivery of __messages__ between any of the fol
   * a web resource 
   * or a module
 
-### api local gem/libray figure
+### API local gem/libray figure
 ![Local API flow diagram](https://docs.google.com/drawings/d/1d-awxPC664DlIhTWM_pqK9SkcjD2udJWgO8K-gRZ_5U/pub?w=960&amp;h=720)
 
-###remote apis
+###remote APIs
 
-When used in the context of web development, an API is typically defined as a set of Hypertext Transfer Protocol (HTTP) request __messages__, along with a definition of the structure of response __messages__, which is usually in an Extensible Markup Language (XML) or JavaScript Object Notation (JSON) format. While "web API" historically has been virtually synonymous for web service, the recent trend (so-called Web 2.0) has been moving away from Simple Object Access Protocol (SOAP) based web services and service-oriented architecture (SOA) towards more direct representational state transfer (REST) style web resources and resource-oriented architecture (ROA).[7] Part of this trend is related to the Semantic Web movement toward Resource Description Framework (RDF), a concept to promote web-based ontology engineering technologies. Web APIs allow the combination of multiple APIs into new applications known as mashups.
+When used in the context of web development, an API is typically defined as a set of Hypertext Transfer Protocol (HTTP) request __messages__, along with a definition of the structure of response __messages__, which is usually in an Extensible Markup Language (XML) or JavaScript Object Notation (JSON) format. 
+
+<!--
+While "web API" historically has been virtually synonymous for web service, the recent trend (so-called Web 2.0) has been moving away from Simple Object Access Protocol (SOAP) based web services and service-oriented architecture (SOA) towards more direct representational state transfer (REST) style web resources and resource-oriented architecture (ROA).[7] Part of this trend is related to the Semantic Web movement toward Resource Description Framework (RDF), a concept to promote web-based ontology engineering technologies. Web APIs allow the combination of multiple APIs into new applications known as mashups.
 Web use to share content
+-->
 
-### api figure
+### API figure
 ![remote API flow diagram](https://docs.google.com/drawings/d/1yWy8O4jCKL4RG4JRvASOZ2FZ9lUJZPQQluAxBk-wE0w/pub?w=960&amp;h=720)
 
 
@@ -179,7 +183,7 @@ the network.
 - gems
   * Ruby libraries written/tested/published by the community which ranges from developers  
   * encourages software reuse few bugs avoid rebuilding the wheel.
-- 3rd party apis + existing gem
+- 3rd party APIs + existing gem
 
   * The third-party software component market thrives because many programmers believe that component oriented development improves the efficiency and the quality of developing custom applications
 
@@ -304,7 +308,7 @@ functionality without having to worry about:
   * parsing XML/JSON
 
 
-### api figure
+### API figure
 ![braintree gem/API flow diagram](https://docs.google.com/drawings/d/1whdbJI2rN52ohyehMXoWChWIRnR6xOvKNY6aKjIDILM/pub?w=516&amp;h=720)
 
 You are a Store owner who wishes to begin selling merchandise through your website.
