@@ -5,8 +5,7 @@
 
 * [Overview] (#overview)
   - [Encapsulation] (#encapsulation)
-    + local libraris 
-    + gems
+    + [local libraris/gems] (#api-local-gemlibray-figure)
     + remote web services/resources
   - serialization
      + XML
