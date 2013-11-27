@@ -25,11 +25,11 @@
 
 # Overview
 
-###Encapsulation
-API
-:  An application programming interface (API) specifies how some software components should interact with each other.
+###Encapsulation through 3rd parties
+__API__
+:  An application programming interface (API) specifies how some __software components__ should interact with each other.
 
-Software components
+__Software components__
 :  An individual software component is a software package, a web service, a web resource, or a module that encapsulates a set of related functions (or data).
 
 Better definition of API?
