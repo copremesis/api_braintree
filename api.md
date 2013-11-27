@@ -259,7 +259,8 @@ As you travel through the ruby worlds you role may be anywhere from:
 Problem
 : we need to connect our ruby application to a remote 3rd party service  
 
-  ####basic ruby design decision flow
+#### Basic ruby design decision flow
+
 ![Decision Flow](https://docs.google.com/drawings/d/1plLIzfr_brdpe1mlffiyFkgFjA1Z7wQV4FUEzpPqkF4/pub?w=949&amp;h=475)
 
 <!--
