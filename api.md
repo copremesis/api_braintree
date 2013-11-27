@@ -367,6 +367,8 @@ email: rob@dragonwrench.com
 [slides] (https://github.com/copremesis/api_braintree/blob/master/api.md)
 
 Companies I've worked with:
+* ![ChaiOne](http://www.chaione.com/wp-content/uploads/2013/09/cropped-c1-logo1.png)
+* ![VenariBio](http://venaribio.com/images/venaribio-cmyk-tag.jpg)
 * ![CabForward](https://www.cabforward.com/wp-content/uploads/2013/11/cabforward-logo.png)
 * ![Apartments](http://graphics.aptcdn.com/ACW/Apts/Responsive/Images/apartments-logo-ver70296.png)
 * ![AHL](http://austin.apartmenthomeliving.com/imgs/global/header/apartments-for-rent-apartment-home-living.png)
