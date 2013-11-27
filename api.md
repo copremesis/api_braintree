@@ -72,6 +72,7 @@ If it comes down to it we may need to make our own ingredients from scratch ... 
 we can speed up this process by knowing and understanding the world of gems and how this gives us a foundation of 
 solid building blocks when producing MVP's.
 
+<!--
 The philosophy here leads back to open source and how software reuse from a community standpoint allows us to focus more on the domain and not so much
 the details.
 
@@ -88,6 +89,7 @@ if they are on github you can fork them ... and fix them there
 if the project was halted ... 
 simply reading other solutions to simmilar problems is a fountain of wisdom and design patterns you can 
 use to discover different ways to solve your everyday problems.
+-->
 
 #### analogy of gems in a cajun restaurant 
 
