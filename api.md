@@ -26,6 +26,7 @@
 
 # Overview
 
+###Encapsulation
 API
 :  An application programming interface (API) specifies how some software components should interact with each other.
 
