@@ -337,10 +337,13 @@ determine what missing pieces of the puzzle are missing.
   [Braintree Ruby Documentation](https://www.braintreepayments.com/docs/ruby)
 
 
-  Keep in mind we are here and please read more or attempt to build an integrated solution 
-  without any pre existing gem you will find this happens more often than not since there 
-  are many existing legacy applications that could benfit from a ruby solution.
+  Keep in mind we are here to learn *how* to build solutions using existing solutions hence Gems.
+  However, companies change technology and may even fall out of cyberspace. Our role as software engineers
+  is to continue building bridges to help assit other developers along their journey.
 
+  I hope that I scratched the surface enough to open the door to a world of APIs and leave you inspired to build rich
+  applications with many fine ingredients.
+  
   ![Iceberg](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQr-vb0VuFeWy_Mq6T-QOimRPpE7h4vEti7zzkMPKNmMuTo7lkrWg)
 
   Happy Hacking!!!
