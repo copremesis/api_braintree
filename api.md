@@ -371,6 +371,7 @@ Companies I've worked with:
 ![ChaiOne](http://www.chaione.com/wp-content/uploads/2013/09/cropped-c1-logo1.png)
 ![VenariBio](http://venaribio.com/images/venaribio-cmyk-tag.jpg)
 ![CabForward](https://www.cabforward.com/wp-content/uploads/2013/11/cabforward-logo.png)
+![CV](http://www.classifiedventures.com/wp-content/themes/cv2013/images/CV-black.svg)
 ![Apartments](http://graphics.aptcdn.com/ACW/Apts/Responsive/Images/apartments-logo-ver70296.png)
 ![AHL](http://austin.apartmenthomeliving.com/imgs/global/header/apartments-for-rent-apartment-home-living.png)
 ![Auto](http://www.auto.com/assets/logo/auto-logo-200x100.png)
