@@ -3,7 +3,7 @@
 
 ### Summary of today's Topic
 
-* ![History] (#History)
+* ![History] (#history)
   - encapsulation via 3rd parties
   - serialization
      + XML
