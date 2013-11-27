@@ -290,12 +290,18 @@ Problem
 ### what we are going to do visually
 
 For our exercise we are going to focus credit card processing using a ruby script.
-
 This exemplify's the use of an API as if we were to house private sensitive data on our own
 local machines would require security licensing plus fees & routine inspections.
 
 Point is we can piggy back off of braintrees existing infrastucture using code examples provided by braintree
 which not only provides solutions in ruby but many other existing languages/platforms
+
+Additionally I wanted this to be a brief introduction to gems to expose how we can perform powerful secure
+functionality without having to worry about:
+
+  * authentication
+  * ssl encryption
+  * parsing XML/JSON
 
 
 ### api figure
