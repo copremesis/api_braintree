@@ -256,27 +256,28 @@ As you travel through the ruby worlds you role may be anywhere from:
 
 ![Segway image](http://resources1.news.com.au/images/2010/09/28/1225930/655541-segway.gif)
 
-<!--
-  maybe even have a flow chart on problem solving with ruby
-
-  problem -> A
--->
+Problem
+: we need to connect our ruby application to a remote 3rd party service  
 
 ![Decision Flow](https://docs.google.com/drawings/d/1plLIzfr_brdpe1mlffiyFkgFjA1Z7wQV4FUEzpPqkF4/pub?w=949&amp;h=475)
 
-  1. is there a gem for me to get from A -> B
-    if yes then use/test gem
-
-  no? is there a solution from for A -> B in another programming language?
-
-    many many times this is the case and there may not be an existing ruby solution.
-
-    As a software professional you will discover how to interpret other code or convert solutions
-    from one language to ruby ... hence hopefully become a gem author and help make our community 
-    a wonderful place to cook 
+<!--
+  As a software professional you will discover how to interpret other code or convert solutions
+  from one language to ruby ... hence hopefully become a gem author and contribute to open source
 
   otherwise each existing API if using REST will have documentation detail messages (endpoints) 
   parameters/xml/json code snippets fields to you as a programmer use to build these bridges
+-->
+
+  Our role as software engineers is to provide solutions existing or non existing and work with 
+  companies. 
+
+  Here's where we as ruby developers spend most of our time is understanding existing solutions so we can
+  combine extend or rebuild them in our day to day efforts.
+
+  Implementing home cooked solutions is the best way to learn ruby or compare it against and existing gem
+  to discover different: *patterns*, *solutions* or *optimizations*. 
+
 
 ![bridge image](http://home.wangjianshuo.com/archives/2005/07/17/shanghai-donghai.bridge.jpg)
 
