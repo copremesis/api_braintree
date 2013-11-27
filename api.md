@@ -133,8 +133,11 @@ determine what missing pieces of the puzzle are missing.
 
 #Whoami
 
+<div style="background-color: #000; color: #fff">
+  This is a test 
+</div>
+
 Companies I've worked with:
-<div style='background: black'>
 * ![CabForward](https://www.cabforward.com/wp-content/uploads/2013/11/cabforward-logo.png)
 * ![Apartments](http://graphics.aptcdn.com/ACW/Apts/Responsive/Images/apartments-logo-ver70296.png)
 * ![AHL](http://austin.apartmenthomeliving.com/imgs/global/header/apartments-for-rent-apartment-home-living.png)
@@ -142,5 +145,4 @@ Companies I've worked with:
 * ![Cars](http://graphics.cars.com/images/core/logo.png)
 * ![AccioData](http://www.acciodata.com/images/accio_data_logo.png)
 <!-- ![MyMedia](http://www.apartments.com/mymediademo/?resp=true) -->
-</div>
 
