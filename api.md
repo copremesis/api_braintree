@@ -336,6 +336,13 @@ determine what missing pieces of the puzzle are missing.
 
   [Braintree Ruby Documentation](https://www.braintreepayments.com/docs/ruby)
 
+
+  Keep in mind we are here and please read more or attempt to build an integrated solution 
+  without any pre existing gem you will find this happens more often than not since there 
+  are many existing legacy applications that could benfit from a ruby solution.
+
+  ![Iceberg](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQr-vb0VuFeWy_Mq6T-QOimRPpE7h4vEti7zzkMPKNmMuTo7lkrWg)
+
   Happy Hacking!!!
 
   --Rob
