@@ -65,11 +65,11 @@ Point I'm making ... As a cook or one who aspires to be a chef (you and I) ... w
 -->
 
 
-As software engineer that aspires to manufacture signature applications we will test various ingredients (building blocks aka gems)
+As software engineers that aspire to build signature applications. We will test various ingredients (building blocks aka gems)
 in order to produce the best dish we can.
 
 If it comes down to it we may need to make our own ingredients from scratch ... yet If we want to compete in todays market
-we can speed up this process by know and understanding the world of gems and how this gives us a foundation of 
+we can speed up this process by knowing and understanding the world of gems and how this gives us a foundation of 
 solid building blocks when producing MVP's.
 
 The philosophy here leads back to open source and how software reuse from a community standpoint allows us to focus more on the domain and not so much
@@ -100,8 +100,11 @@ when preparing a cup of soup.
 Instead restaurants have workers prepare these essential building blocks so that the line cooks/chefs can quickly prepare
 dishes for their consumers.
 
-Trust becomes a huge factor in this senario so as a decision maker in manufactoring software your discretion and own cross examining A/B testing
-various ingredients or gems ultimately comes down to you.
+Trust becomes a huge factor in this senario.
+As a decision maker in manufactoring software, Your discretion and or own cross examination, A/B testing, or researching 
+various ingredients (or gems) ultimately make or break your dish.
+
+![papa johns](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQS5H_mPRftlge_mDcOQnj3luQyEMSfLbq3IyIs97SFg6ALrszw2w)
 
 #### where do we stand with gems?
 
