@@ -334,6 +334,10 @@ determine what missing pieces of the puzzle are missing.
 
   [Braintree Ruby Documentation](https://www.braintreepayments.com/docs/ruby)
 
+  Happy Hacking!!!
+
+  --Rob
+
 <!--
   WIP
   you can demonstrate this with your completed script 
