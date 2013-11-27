@@ -324,19 +324,17 @@ determine what missing pieces of the puzzle are missing.
   list some test cards in a table along with code samples
 -->
 
-
   I've put together dashboard to provide peers visual/audio feedback whenever a transaction is performed
 
+<!--
+  WIP
   you can demonstrate this with your completed script 
-
 
   Additionally you do not provide the code no how to perform a VOID transaction however 
 
   but demonstrate this using your script ... ruby  sale.rb void.rb
 
   two distinct visual queues should occur with your user name ...
-  I could play with this: <https://oauth.io/> and see if that does something cool like post to a timeline or tweet actions performed on your braintree account 
-
 
   I think a GREEN bold font of the name and amount  should appear when a sale is performed 
   as well with a -$(amount) red when a VOID is performed ...
@@ -349,7 +347,7 @@ determine what missing pieces of the puzzle are missing.
 
   leave some links to documentation so that the students can practice doing what we as software developers do a lot of:
   read documentation in search of existing solutions.
-
+-->
     
 
 ### Most Basic Sale Code Snippet
