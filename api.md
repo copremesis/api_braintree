@@ -222,7 +222,10 @@ use to discover different ways to solve your everyday problems.
 
 In a kitchen a gem would essentially be prep work before the chef begins to cook.
 
-If I were going to make gumbo, one essential time consuming ingredient would be the *Roux*.
+If the client requests gumbo, one essential time consuming ingredient would be the *Roux*.
+
+(cooking and time ... slower the better )
+
 If the cook were to *always* prepare the roux for each dish this could add complexity and time 
 when preparing a single dish.
 
@@ -231,9 +234,11 @@ dishes for their consumers.
 
 #### Summary of gems/libraries
 
-Trust becomes a huge factor in this senario.
-As a decision maker in manufactoring software, Your discretion and or own cross examination, A/B testing, or researching 
-various ingredients (or gems) ultimately make or break your dish.
+Similarly companies or 3rd parties will provide us ruby developers with building blocks to enable us to integrate our applications
+to their software.
+
+As a decision maker in manufactoring software, your discretion and or own cross examination, A/B testing, or researching 
+various ingredients (or gems) ultimately help to improve your final delivery.
 
 ![papa johns](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQS5H_mPRftlge_mDcOQnj3luQyEMSfLbq3IyIs97SFg6ALrszw2w)
 
@@ -246,7 +251,10 @@ As you travel through the ruby worlds you role may be anywhere from:
 + gem author
 + gem design pattern interpretor (all of the above)
 
+
 ####Segway to todays exercise
+
+![Segway image](http://resources1.news.com.au/images/2010/09/28/1225930/655541-segway.gif)
 
   maybe even have a flow chart on problem solving with ruby
 
