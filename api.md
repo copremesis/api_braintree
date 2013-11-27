@@ -256,9 +256,13 @@ As you travel through the ruby worlds you role may be anywhere from:
 
 ![Segway image](http://resources1.news.com.au/images/2010/09/28/1225930/655541-segway.gif)
 
+<!--
   maybe even have a flow chart on problem solving with ruby
 
   problem -> A
+-->
+
+![Decision Flow] (https://docs.google.com/drbwings/d/1plLIzfr_brdpe1mlffiyFkgFjA1Z7wQV4FUEzpPqkF4/pub?w=949&amp;h=475)
 
   1. is there a gem for me to get from A -> B
     if yes then use/test gem
