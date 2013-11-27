@@ -277,13 +277,29 @@ determine what missing pieces of the puzzle are missing.
 -->
 
 
-  A dashboard built by you will provide visual/audio feedback whenever a transaction is performed
+  I've put together dashboard to provide peers visual/audio feedback whenever a transaction is performed
+
   you can demonstrate this with your completed script 
 
 
   Additionally you do not provide the code no how to perform a VOID transaction however 
-  leave some links to documentation so that the students can practice doing what we as software developers do a lot of:
 
+  but demonstrate this using your script ... ruby  sale.rb void.rb
+
+  two distinct visual queues should occur with your usename ...
+  I could play with this: <https://oauth.io/> and see if that does something cool like post to a timeline or tweet actions performed on your braintree account 
+
+
+  I think a GREEN bold font of the name and amount  should appear when a sale is performed 
+  as well with a -$(amount) red when a VOID is performed ...
+
+  The point here is that when implementing a solution for an applicaiton always focus on do and undo ... VOID satisfies the basic premise of this
+  concept as the rabbit hole deepens ... you can mention time sensitive complexity with performing REFUNDS .. maybe share a story but overall just
+  inform them that 
+
+  also mentions rescue logic ... when working through a network connection to provide informant UX when phyical connection is severed.
+
+  leave some links to documentation so that the students can practice doing what we as software developers do a lot of:
   read documentation search for existing solutions.
 
 
@@ -341,11 +357,13 @@ determine what missing pieces of the puzzle are missing.
     )
 
 
-
-
-
 #Whoami
+Rob Ortiz
 
+<https://github.com/copremesis>
+twitter: @copremsis
+email: rob@dragonwrench.com
+[slides] (https://github.com/copremesis/api_braintree/blob/master/api.md)
 
 Companies I've worked with:
 * ![CabForward](https://www.cabforward.com/wp-content/uploads/2013/11/cabforward-logo.png)
