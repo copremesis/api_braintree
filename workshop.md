@@ -1,9 +1,7 @@
 
-workshop.rb
+Rob's Braintree API workshop
 
-API workshop
-
-1. Credit card payments using braintree gem
++ Credit card payments using braintree gem
 
   * clone this repo
 
@@ -45,17 +43,17 @@ API workshop
 
 
 
-2. intermidiate
++ intermidiate
 
   * serialization
     + xml <-> ruby
     + JSON <->ruby
     + legacy key=value& ...
 
-3. Advanced exercises
++ Advanced exercises
 
   * get your name & email on the dash board
 
-4. challenges
++ challenges
    
   * parsing xml, json and connecting to 3rd parties
