@@ -13,8 +13,26 @@ API workshop
 
   * add your first & last names and email
     
+    
+    
 
   * run script
+
+    <pre> <code>
+      bash-3.2$ ruby braintree.rb
+      I, [2013-12-02T16:09:13.662180 #53726]  INFO -- : [Braintree] [02/Dec/2013 22:09:13 UTC] POST /transactions 422
+      #<Braintree::ErrorResult params:{...} errors:<transaction/credit_card:[(81707) CVV must be 4 digits for American Express and 3 digits for other card types.], >>
+    </code> </pre>
+
+  * fix script and rerun
+
+  you should see your name, last & email appear [here](http://dragonwrench.com:3003/transactions)
+
+
+  * can you remove you name from the dash board?
+    
+    review [this](https://www.braintreepayments.com/docs/ruby/transactions/void) documentation:
+
 
 
 
@@ -31,6 +49,4 @@ API workshop
 
 4. challenges
    
-  * can you remove you name from the dash board?
-    (void transaction?) 
   * parsing xml, json and connecting to 3rd parties

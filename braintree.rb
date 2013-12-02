@@ -18,11 +18,9 @@ Braintree::Configuration.private_key = "b0a52c8b0f6bf1ee361d78a6dbe061f5"
     :credit_card => {
       :number => "5105105105105100",
       :expiration_date => "05/2012",
-      :cvv => "111"
+      :cvv => "1111"
     },
     :customer => {
-      #:first_name => Faker::Name.first_name,
-      #:last_name => Faker::Name.last_name,
       :first_name => "",
       :last_name => "",
       :company => "MakerSquare",
@@ -30,13 +28,13 @@ Braintree::Configuration.private_key = "b0a52c8b0f6bf1ee361d78a6dbe061f5"
       :email => ""
     }
   )
+
+  ap result
 }
 
 @sale[]
 
 #api exercises:
-
-
 #Xml.hash_from_xml('<xml><person><name>Rob</name></person></xml>')
 #ruby -> xml
 #rexeml, nokogiri, xml_simple ... native ruby
