@@ -7,7 +7,9 @@ API workshop
 
   * download gem
 
+    <pre> <code>
       git clone git@github.com:copremesis/api_braintree.git
+    </code> </pre>
 
   * add your first & last names and email
     
