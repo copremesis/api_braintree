@@ -41,6 +41,12 @@ Rob's Braintree API workshop
     review [this](https://www.braintreepayments.com/docs/ruby/transactions/void) documentation:
 
 
+<!--
+    If time permits I'll dig deeper and talk a little more about 
+    
+    serialization and using HTTP libraries to connect/authenticate to 3rd parties
+
+    https://gist.github.com/copremesis/85be852b6478cf7b83a6 (my very 1st ruby script)
 
 
 + intermidiate
@@ -57,3 +63,4 @@ Rob's Braintree API workshop
 + challenges
    
   * parsing xml, json and connecting to 3rd parties
+-->
