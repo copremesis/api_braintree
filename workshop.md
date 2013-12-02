@@ -3,9 +3,9 @@ workshop.rb
 
 API workshop
 
-1. easy
+1. Credit card payments using braintree gem
 
-  * download gem
+  * clone this repo
 
     <pre> <code>
       git clone git@github.com:copremesis/api_braintree.git
@@ -13,7 +13,16 @@ API workshop
 
   * add your first & last names and email
     
-    
+    <pre> <code>
+    :customer => {
+      :first_name => "",
+      :last_name => "",
+      :company => "MakerSquare",
+      :website => "http://www.themakersquare.com",
+      :email => ""
+    }
+
+    </code> </pre>
     
 
   * run script
