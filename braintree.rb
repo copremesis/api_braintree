@@ -1,8 +1,4 @@
-require "rubygems"
 require "braintree"
-require "awesome_print"
-require "json"
-require "faker"
 
 
 Braintree::Configuration.environment = :sandbox
