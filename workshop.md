@@ -33,7 +33,7 @@ Rob's Braintree API workshop
 
   * fix script and rerun
 
-  you should see your name, last & email appear [here](http://dragonwrench.com:3003/transactions)
+  you should see your name, last & email appear [here](http://dragonwrench.com:3004/transactions)
 
 
   * can you remove you name from the dash board?
